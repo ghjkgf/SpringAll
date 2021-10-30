@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01.Start-Spring-Boot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08.Spring-Boot-Thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08.Spring-Boot-Thymeleaf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13.Spring-Boot-Shiro-Authorization/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/18.Spring-Boot-Jackson/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/18.Spring-Boot-Jackson/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/21.Spring-Boot-Actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/21.Spring-Boot-Actuator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/22.Spring-Boot-Email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/22.Spring-Boot-Email/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/24.Spring-Boot-Devtools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/24.Spring-Boot-Devtools/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27.Spring-Boot-Mapper-PageHelper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/28.Spring-Cloud-Eureka-Server-Discovery/Server-Consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/28.Spring-Cloud-Eureka-Server-Discovery/Server-Consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/29.Spring-Cloud-Ribbon-LoadBalance/Eureka-Client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/29.Spring-Cloud-Ribbon-LoadBalance/Eureka-Client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/29.Spring-Cloud-Ribbon-LoadBalance/Eureka-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/29.Spring-Cloud-Ribbon-LoadBalance/Eureka-Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/30.Spring-Cloud-Hystrix-Circuit-Breaker/Eureka-Client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/30.Spring-Cloud-Hystrix-Circuit-Breaker/Eureka-Client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Hystrix-Dashboard/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Turbine-Stream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Turbine-Stream/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/35.Spring-Security-Authentication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/39.Spring-Cloud-Zuul-Router/Zuul-Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/41.Spring-Cloud-Config/config-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/43.Spring-Cloud-Sleuth/Server-Provider2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/61.Spring-security-Permission/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -3,3 +3,126 @@
 */.classpath
 */.project
 
+/.idea/.gitignore
+/44.Spring-Boot-Autoconfiguration/autoconfig.iml
+/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/common-api/common-api.iml
+/53.Dubbo-High-Availability/common-api/common-api (1).iml
+/40.Spring-Boot-Dubbo-Zookeeper/common-api/common-api (2).iml
+/42.Spring-Cloud-Bus/config-client/Config-Client.iml
+/41.Spring-Cloud-Config/config-client/Config-Client (1).iml
+/42.Spring-Cloud-Bus/config-server/Config-Server.iml
+/41.Spring-Cloud-Config/config-server/Config-Server (1).iml
+/74.spring-cloud-alibaba-nacos-register/consumer/consumer.iml
+/78.spring-cloud-alibaba-sentinelresource/consumer/consumer (1).iml
+/49.Spring-Boot-Async/demo.iml
+/54.Spring-Boot-Kafka/demo (1).iml
+/50.Spring-Regist-Bean/demo (1) (cc.mrbird).iml
+/17.Spring-Boot-Shiro-Session/demo (1) (com.springboot).iml
+/62.Spring-Boot-Shiro-JWT/demo (2).iml
+/51.Spring-Bean-Lifecycle/demo (2) (cc.mrbird).iml
+/48.Spring-Boot-CORS-Support/demo (3).iml
+/47.Spring-Boot-Content-Negotiation/demo (4).iml
+/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/dubbo-boot.iml
+/53.Dubbo-High-Availability/dubbo-boot (1).iml
+/40.Spring-Boot-Dubbo-Zookeeper/dubbo-boot (2).iml
+/39.Spring-Cloud-Zuul-Router/Eureka-Client/Eureka-Client.iml
+/29.Spring-Cloud-Ribbon-LoadBalance/Eureka-Client/Eureka-Client (1).iml
+/28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Client/Eureka-Client (2).iml
+/30.Spring-Cloud-Hystrix-Circuit-Breaker/Eureka-Client/Eureka-Client (3).iml
+/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Eureka-Client/Eureka-Client (4).iml
+/33.Spring-Cloud-Feign-Declarative-REST-Client/Eureka-Client/Eureka-Client (5).iml
+/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Eureka-Client/Eureka-Client (6).iml
+/42.Spring-Cloud-Bus/Eureka-Service/Eureka-Service.iml
+/41.Spring-Cloud-Config/Eureka-Service/Eureka-Service (1).iml
+/43.Spring-Cloud-Sleuth/Eureka-Service/Eureka-Service (2).iml
+/39.Spring-Cloud-Zuul-Router/Eureka-Service/Eureka-Service (3).iml
+/29.Spring-Cloud-Ribbon-LoadBalance/Eureka-Service/Eureka-Service (4).iml
+/28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Service/Eureka-Service (5).iml
+/30.Spring-Cloud-Hystrix-Circuit-Breaker/Eureka-Service/Eureka-Service (6).iml
+/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Eureka-Service/Eureka-Service (7).iml
+/33.Spring-Cloud-Feign-Declarative-REST-Client/Eureka-Service/Eureka-Service (8).iml
+/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Eureka-Service/Eureka-Service (9).iml
+/39.Spring-Cloud-Zuul-Router/Feign-Consumer/Feign-Consumer.iml
+/33.Spring-Cloud-Feign-Declarative-REST-Client/Feign-Consumer/Feign-Consumer (1).iml
+/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Hystrix-Dashboard/Hystrix-Dashboard.iml
+/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Hystrix-Dashboard/Hystrix-Dashboard (1).iml
+/56.Spring-Boot-MongoDB-crud/mongodb.iml
+/74.spring-cloud-alibaba-nacos-register/provider/provider.iml
+/78.spring-cloud-alibaba-sentinelresource/provider/provider (1).iml
+/29.Spring-Cloud-Ribbon-LoadBalance/Ribbon-Consumer/Ribbon-Consumer.iml
+/30.Spring-Cloud-Hystrix-Circuit-Breaker/Ribbon-Consumer/Ribbon-Consumer (1).iml
+/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Ribbon-Consumer/Ribbon-Consumer (2).iml
+/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Ribbon-Consumer/Ribbon-Consumer (3).iml
+/34.Start-Spring-Security/Security.iml
+/63.Spring-Security-OAuth2-Guide/security.iml
+/60.Spring-Security-Logout/Security (1).iml
+/65.Spring-Security-OAuth2-Config/security (1).iml
+/38.Spring-Security-SmsCode/Security (2).iml
+/64.Spring-Security-OAuth2-Customize/security (2).iml
+/37.Spring-Security-RememberMe/Security (3).iml
+/61.Spring-security-Permission/Security (4).iml
+/36.Spring-Security-ValidateCode/Security (5).iml
+/35.Spring-Security-Authentication/Security (6).iml
+/59.Spring-Security-SessionManager/Security (7).iml
+/28.Spring-Cloud-Eureka-Server-Discovery/Server-Consumer/Server-Consumer.iml
+/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/server-consumer/server-consumer.iml
+/53.Dubbo-High-Availability/server-consumer/server-consumer (1).iml
+/55.Spring-Cloud-Consul/server-consumer/server-consumer (1) (com.example).iml
+/40.Spring-Boot-Dubbo-Zookeeper/server-consumer/server-consumer (2).iml
+/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/server-provider/server-provider.iml
+/53.Dubbo-High-Availability/server-provider/server-provider (1).iml
+/55.Spring-Cloud-Consul/server-proivder/server-provider (1) (com.example).iml
+/40.Spring-Boot-Dubbo-Zookeeper/server-provider/server-provider (2).iml
+/43.Spring-Cloud-Sleuth/Server-Provider1/Server-Provider1.iml
+/43.Spring-Cloud-Sleuth/Server-Provider2/Server-Provider2.iml
+/72.spring-batch-exception/spring-batch-exception.iml
+/70.spring-batch-itemprocessor/spring-batch-itemprocessor.iml
+/68.spring-batch-itemreader/spring-batch-itemreader.iml
+/69.spring-batch-itemwriter/spring-batch-itemwriter.iml
+/73.spring-batch-launcher/spring-batch-launcher.iml
+/71.spring-batch-listener/spring-batch-listener.iml
+/67.spring-batch-start/spring-batch-start.iml
+/21.Spring-Boot-Actuator/Spring-Boot-Actuator.iml
+/23.Spring-Boot-Admin/Spring Boot Admin Client/Spring-Boot-admin-Client.iml
+/23.Spring-Boot-Admin/Spring Boot Admin Server/Spring-Boot-Admin-Server.iml
+/07.Spring-Boot-AOP-Log/Spring-Boot-AOP-Log.iml
+/02.Spring-Boot-Config/Spring-Boot-Config.iml
+/24.Spring-Boot-Devtools/Spring-Boot-Devtools.iml
+/10.Spring-Boot-Ehcache-Cache/Spring-Boot-Ehcache-Cache.iml
+/22.Spring-Boot-Email/Spring-Boot-Email.iml
+/25.Spring-Boot-Exception/Spring-Boot-Exception.iml
+/26.Spring-Boot-Filter-Interceptor/Spring-Boot-Filter-Interceptor.iml
+/18.Spring-Boot-Jackson/Spring-Boot-Jackson.iml
+/04.Spring-Boot-JdbcTemplate/Spring-Boot-JdbcTemplate.iml
+/06.Spring-Boot-JdbcTemplate-MultiDataSource/Spring-Boot-JdbcTemplate-MultiDataSource.iml
+/27.Spring-Boot-Mapper-PageHelper/Spring-Boot-Mapper-PageHelper.iml
+/03.Spring-Boot-MyBatis/Spring-Boot-MyBatis.iml
+/05.Spring-Boot-MyBatis-MultiDataSource/Spring-Boot-MyBatis-MultiDataSource.iml
+/09.Spring-Boot-Redis-Cache/Spring-Boot-Redis-Cache.iml
+/11.Spring-Boot-Shiro-Authentication/Spring-Boot-Shiro-Authentication.iml
+/13.Spring-Boot-Shiro-Authorization/Spring-Boot-Shiro-Authorization.iml
+/15.Spring-Boot-Shiro-Ehcache/Spring-Boot-Shiro-Ehcache.iml
+/14.Spring-Boot-Shiro-Redis/Spring-Boot-Shiro-Redis.iml
+/12.Spring-Boot-Shiro-RememberMe/Spring-Boot-Shiro-RememberMe.iml
+/16.Spring-Boot-Shiro-Thymeleaf-Tag/Spring-Boot-Shiro-Thymeleaf-Tag.iml
+/20.Spring-Boot-Swagger2/Spring-Boot-Swagger2.iml
+/19.Spring-Boot-Testing/Spring-Boot-Testing.iml
+/08.Spring-Boot-Thymeleaf/Spring-Boot-Thymeleaf.iml
+/76.spring-boot-websocket-socketjs/spring-boot-websocket-socketjs.iml
+/75.spring-cloud-alibaba-nacos-config/spring-cloud-alibaba-nacos-config.iml
+/74.spring-cloud-alibaba-nacos-register/spring-cloud-alibaba-nacos-register.iml
+/77.spring-cloud-alibaba-sentinel-dashboard-guide/spring-cloud-alibaba-sentinel-dashboard-guide.iml
+/78.spring-cloud-alibaba-sentinelresource/spring-cloud-alibaba-sentinelresource.iml
+/45.Spring-Boot-SpringApplication/SpringApplication.iml
+/66.Spring-Security-OAuth2-SSO/sso.iml
+/66.Spring-Security-OAuth2-SSO/sso-application-one/sso-application-one.iml
+/66.Spring-Security-OAuth2-SSO/sso-application-two/sso-application-two.iml
+/66.Spring-Security-OAuth2-SSO/sso-server/sso-server.iml
+/01.Start-Spring-Boot/Start-Spring-Boot.iml
+/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Turbine/Turbine.iml
+/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Turbine-Stream/Turbine-Stream.iml
+/46.Spring-Boot-Hibernate-Validator/validator.iml
+/57.Spring-Boot-WebFlux/webflux/webflux.iml
+/58.Spring-Boot-WebFlux-crud/webflux (1).iml
+/43.Spring-Cloud-Sleuth/Zipkin-Server/Zipkin-Server.iml
+/39.Spring-Cloud-Zuul-Router/Zuul-Gateway/Zuul-Gateway.iml
